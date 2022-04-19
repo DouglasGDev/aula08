@@ -1,0 +1,11 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+}
+header{
+    align-items: center;
+   
+}
+li{
+    display: inline-block;
+}
